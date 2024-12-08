@@ -60,7 +60,6 @@
   <circuit name="add1">
     <a name="appearance" val="logisim_evolution"/>
     <a name="circuit" val="add1"/>
-    <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="simulationFrequency" val="1.0"/>
     <comp lib="0" loc="(110,110)" name="Pin">
       <a name="appearance" val="NewPins"/>
